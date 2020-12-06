@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CarURPWebGL",
+"productVersion": "0.1",
+"dataUrl": "WebglV1.data.unityweb",
+"wasmCodeUrl": "WebglV1.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebglV1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.5f1"
+}
